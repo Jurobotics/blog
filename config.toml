@@ -1,12 +1,14 @@
 baseurl = "/"
-languageCode = "en-us"
+
 theme = "hello-friend"
 paginate = 5
+
+defaultContentLanguage = 'en'
 
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 0
@@ -24,8 +26,11 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    contentDir = "content/english"
+    weight = 2
+
+    title = "Blog - JuRobotics"
+    subtitle = "A JuRobotics Blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -41,9 +46,33 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "JuRobotics"
       logoHomeLink = "/"
-    # or
-    #
+     path = "/img/Logo_Writing_JURO.svg"
+     alt = "JuRobotics logo"
+
+  [languages.de]
+    contentDir= "content/deutsch"
+    weight = 1
+
+    title = "Blog - JuRobotics"
+    subtitle = "JuRobotics Blog"
+    keywords = ""
+    copyright = ""
+    menuMore = "Mehr zeigen"
+    writtenBy = "geschrieben von"
+    readMore = "Mehr lesen"
+    readOtherPosts = "Andere Posts lesen"
+    newerPosts = "neuere Posts"
+    olderPosts = "ältere Posts"
+    minuteReadingTime = "min Lesedauer"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.de.params.logo]
+      logoText = "JuRobotics"
+      logoHomeLink = "/"
      path = "/img/Logo_Writing_JURO.svg"
      alt = "JuRobotics logo"
