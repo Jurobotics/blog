@@ -14,3 +14,26 @@
     padding-bottom: 5vh;
     color: var(--color-secondary);
 }
+
+.post-content img {
+    display: block;
+    max-width: 60%;
+    padding: 17px;
+    margin: auto;
+}
+
+.emoji {
+	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+}
+
+@media  (max-width:683px) {
+
+    .post-content img {
+        display: block;
+        padding: 0;
+        margin: auto;
+        max-width: 100%;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+}
