@@ -22,15 +22,19 @@ Hier kann man die unbestückte Platine von so einem Boardcomputer sehen, die sp�
 Wir hatten nun die Möglichkeit das Team mit Fragen zu der Technik eines Ticketautomaten zu löchern. Von Sicherheitsmechanismen, über den Aufbau, bis hin zum modularen Design der Bauteile, war thematisch alles dabei. Hierbei fanden wir es besonders spannend, wie die Komponenten miteinander kommunizieren.
 
 
-![Lars und Hamza stehen vor der Ticket maschine](images/ticket-machine.png)
+![Lars und Hamza stehen vor dem Ticketautomaten](images/ticket-machine.png)
 
+## Verabschiedung
+
+Zur verabschiedung wurden wir dann hoch auf die Terasse eingeladen, zum Essen und vorstellen von unserem aktuellem Projekt. Dabei haben wir angefangen unseren Cocktailmaker, dazu mehr im nächsten Blogpost, vorzustellen und was JuRobotics eigentlich ist und macht.
 
 
 - [x] vorstellung der aufgabenbereiche von init
 - [x] was wir gemacht haben
     - [x] hardware team arbeit gezeigt
     - [x] aufbau eines Ticketautomatren
-- [ ] mittagessen 
-- [ ] vorstellung unserer arbeit
-- [ ] vorstellung von einem frc teilnehmer?
-- [ ] Was wir draus mitgenommen haben
+- Abschluss
+    - [x] mittagessen 
+    - [ ] vorstellung unserer arbeit
+    - [ ] vorstellung von einem frc teilnehmer? - Würde ich rausnehmen bzw nur einen Kurzen Satz dazu schreiben 
+    - [ ] Was wir draus mitgenommen haben
