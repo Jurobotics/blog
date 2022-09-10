@@ -3,7 +3,7 @@ title: "A quick introduction to JuRobotics"
 date: 2022-07-23T09:24:11+02:00
 draft: false
 author: "Luca"
-description: "We are a young team of tech enthusiasts building a place to get in touch with the world of robotics and the topics that go with it. Our goal is"
+description: "We are a young team of tech enthusiasts building a place to get in touch with the world of robotics and the topics that go with it. Our goal is [...]"
 ---
 
 We are a young team of tech enthusiasts building a place to get in touch with the world of robotics and the topics that go with it. Our goal is to increase accessibility to robotics among young people and create a space where people can expand thier knowledge and discover new interests.
