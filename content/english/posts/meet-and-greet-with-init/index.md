@@ -1,13 +1,13 @@
 ---
 title: "Besuch bei INIT"
 date: "2022-07-23"
-draft: true
+draft: false
 author: "Hamza, Luca"
 description: "Yesterday we were able to gain an exciting insight into the work of [INIT](https://www.initse.com/dede/home/)[...]"
 tags: ["trip", "Team"]
 --- 
 
-Yesterday we were able to gain an exciting insight into the work of [INIT](https://www.initse.com/dede/home/). After our arrival, we were introduced to the areas in which INIT is active. In the following hour, we got a closer look at the development of board computers and ticket vending machines.
+Yesterday we were able to gain an exciting insight into the work of [INIT](https://www.initse.com/dede/home/). After our arrival, we were introduced to the areas in which INIT operates. In the following hour, we got a closer look at the development of board computers and ticket vending machines.
 
 ## Copilot
 

@@ -1,7 +1,7 @@
 ---
 title: "Besuch bei INIT"
 date: "2022-07-23"
-draft: true
+draft: false
 author: "Hamza, Luca"
 description: "Gestern durften wir einen spannenden Einblick in die Arbeit von [INIT](https://www.initse.com/dede/home/) gewinnen [...]"
 tags: ["Ausflug", "Team"]
