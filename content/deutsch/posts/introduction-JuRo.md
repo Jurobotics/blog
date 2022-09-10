@@ -3,7 +3,7 @@ title: "JuRobotics"
 date: 2022-07-23T09:24:11+02:00
 draft: false
 author: "Luca"
-description: "Wir sind ein Team von technikbegeisterten Jugendlichen, die einen Ort schaffen wollen, an dem man mit der Welt der Robotik und den dazugehörigen Themen in Kontakt kommen kann. Unser Ziel ist"
+description: "Wir sind ein Team von technikbegeisterten Jugendlichen, die einen Ort schaffen wollen, an dem man mit der Welt der Robotik und den dazugehörigen Themen in Kontakt kommen kann. Unser Ziel ist [...]"
 ---
 
 # Eine kurze Einführung zu JuRobotics
