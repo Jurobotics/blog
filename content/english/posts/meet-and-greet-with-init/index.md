@@ -3,7 +3,7 @@ title: "Visit at INIT"
 date: "2022-07-23"
 draft: false
 author: "Hamza, Luca"
-description: "Yesterday we were able to gain an exciting insight into the work of [INIT](https://www.initse.com/dede/home [...]"
+description: "Yesterday we were able to gain an exciting insight into the work of [INIT](https://www.initse.com/dede/home) [...]"
 tags: ["trip", "Team"]
 --- 
 
