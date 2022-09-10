@@ -28,7 +28,7 @@ Wir hatten nun die Möglichkeit das Team mit Fragen zu der Technik eines Ticketa
 
 Anschließend wurden wir hoch auf die Terasse des INIT-Gebäudes zum Essen und Vorstellen unseres aktuellen Projekts eingeladen. Dort haben wir CAD-Modelle und Ideen unseres Cocktailmakers zeigen und austauschen können. Dazu mehr im nächsten Blogpost. Wir hatten die Möglichkeit zu zeigen was JuRobotics eigentlich ist und macht. Wir fanden es im Gegenzug auch sehr Interessant mit Cap, der regelmäßig bei der FRC (First Robotics Competition) teilnimmt, über robotik und die verschiedenen Produktionsarten der Bauteile zu sprechen.
 
-Wir bedanken uns bei [INIT](https://www.initse.com/dede/home/) für den tollen Tag und die wertvollen einblicke! 
+Wir bedanken uns bei [INIT](https://www.initse.com/dede/home/) für den tollen Tag und die wertvollen Einblicke! 
 
 
 - [x] vorstellung der aufgabenbereiche von init
