@@ -1,7 +1,7 @@
 ---
 title: "JuRobotics"
 date: 2022-07-23T09:24:11+02:00
-draft: true
+draft: false
 author: "Luca"
 ---
 
