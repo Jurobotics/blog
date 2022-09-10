@@ -1,5 +1,5 @@
 ---
-title: "Besuch bei INIT"
+title: "Visit at INIT"
 date: "2022-07-23"
 draft: false
 author: "Hamza, Luca"
